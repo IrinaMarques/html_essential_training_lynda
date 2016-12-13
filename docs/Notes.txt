@@ -1,0 +1,48 @@
+===================
+1. Introducing HTML
+===================
+
+======================
+The importance of HTML
+======================
+
+New web designers need to learn at least the three core languages:
+* HTML - Essential structure 
+* CSS - Page design
+* JavaScript - Page behavior
+
+==================
+Basic HTML syntax
+==================
+
+HTML = HyperText Markup Language
+
+HTML ELEMENTS:
+There are 3 types of elements:
+1 – Content element allows to put content in a pag (ex. <p> <h><img>)
+2 – Structure elements (group content in a page - ex. <main><footer>)
+3 – Document metadata elements (extra information)
+
+HTML TAGS:
+* Open tag and closing tag: <p>A paragraph text</p>
+* Void tag: sits by himself don’t need a closing tag <img src=’’>
+
+The tags can have some attributes:
+* Some are specific to the elements
+* Global Attributes
+
+Two types of attributes:
+* Informative - gives extra information about  the element
+* Functional - gives the browser a functionality - case of href
+
+Ex.
+lang="en"
+Lang is the name of the attribute
+= assignment operator
+"en" value
+
+Nesting:
+HTML allows to create more complicated structures by nesting an element inside another element. 
+
+There are rules in Nesting tags:
+* If a child element is open it has to close before its parent element. 
