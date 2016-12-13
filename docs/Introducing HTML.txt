@@ -83,4 +83,11 @@ http://www.webplatform.org
 Mozilla developer:
 http://developer.mozilla.org/en-US/docs/Web/HTML/reference
 
+=======================
+Choosing a code editor
+=======================
+
+
+
+
 
