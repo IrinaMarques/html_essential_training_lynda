@@ -67,6 +67,20 @@ HTML - Specification developed by WHATWG
 * No version numbers
 * Undergoes constant updates and revisions
 
+===============
+HTML resources
+===============
 
+W3C page:
+http://www.w3.org/TR/html5
+
+WHATWG page:
+http://www.whatwg.org/specs/web-apps/current-work/multipage
+
+Open source website:
+http://www.webplatform.org
+
+Mozilla developer:
+http://developer.mozilla.org/en-US/docs/Web/HTML/reference
 
 
