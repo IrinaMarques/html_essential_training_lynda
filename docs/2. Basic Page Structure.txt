@@ -1,0 +1,20 @@
+==========================
+Exploring an HTML document
+==========================
+
+Browsers gives us instuments to inspect the webpages:
+IE - Developer tools
+Firefox - Firebug
+Chrome - Webkit Inspector
+
+For building a document we need:
+* <!DOCTYPE HTML>  version of HTML we are using
+* <html></html>  all elements are inside
+Two regions:
+* <head></head>  
+What makes the html better but don't define it. 
+Non visual elements that makes the page/document work.
+We have: scripts, css files that styles the page, meta tags, title for accessibility.
+* <body></body>  
+All the visual elements 
+We have: h1, main content, sidebars, footers, paragraphs
