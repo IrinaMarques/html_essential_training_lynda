@@ -32,3 +32,5 @@ Trigger the quirks mode ensures that the page is going to be rendered properly.
 The one that we need is:
 <!DOCTYPE HTML>
 
+
+
