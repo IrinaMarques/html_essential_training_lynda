@@ -18,3 +18,17 @@ We have: scripts, css files that styles the page, meta tags, title for accessibi
 * <body></body>  
 All the visual elements 
 We have: h1, main content, sidebars, footers, paragraphs
+
+====================
+DOCTYPE Declarations
+====================
+
+http://www.w3.org/QA/2002/04/valid-dtd-list.html
+
+Doctype tells the browser which version of html we are going to use. 
+
+Trigger the quirks mode ensures that the page is going to be rendered properly.
+
+The one that we need is:
+<!DOCTYPE HTML>
+
