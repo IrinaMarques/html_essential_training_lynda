@@ -46,3 +46,27 @@ HTML allows to create more complicated structures by nesting an element inside a
 
 There are rules in Nesting tags:
 * If a child element is open it has to close before its parent element. 
+
+=========================
+The current state of HTML
+=========================
+
+1991 - Tim Berners-Lee publish "HTML Tags"
+1994/96 - HTML 2.0 - HTML 4.0 are released 
+1999/2000 - W3C releases XHTML 1.0
+2007 - W3C creates new HTML5 Working Groups
+2008/9 - W3C drops the charter from XHTML 2.0
+Today - There are currently two specifications of HTML being developed one by the W3C and another one by the What Working Group.
+
+HTML 5 - Specification developed by the W3C 
+* Clear milestones
+* Stable specification
+
+HTML - Specification developed by WHATWG
+* Living standard
+* No version numbers
+* Undergoes constant updates and revisions
+
+
+
+
