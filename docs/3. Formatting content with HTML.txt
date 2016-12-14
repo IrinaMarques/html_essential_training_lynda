@@ -39,6 +39,15 @@ We have to be carefull with the paragraphs because it's the default text.
 
 When we make two paragraphs they get a space between them. This is because all HTML elements have both top and bottom margins.
 
+=======================
+Controlling line breaks
+=======================
+
+<br>
+
+Line break don't need a close tag
+Don't get spaces between the line
+Used when we need to force a hard return without creating a new paragraph.
 
 
 
