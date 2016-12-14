@@ -1,0 +1,18 @@
+============================
+Formatting content with HTML
+============================
+
+HTML is a markup so it uses tags to identify content on the page.
+
+Unformatted text
+<body>
+ What am I?
+</body>
+
+<pre></pre> : preformatted - poems and things where the formatting is a specific way.
+
+<i></i> : italicizes 
+<b></b> : bold
+<em></em> : emphasis
+<strong></strong> : strongly emphasized
+
