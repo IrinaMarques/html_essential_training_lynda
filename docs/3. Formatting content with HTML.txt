@@ -86,4 +86,17 @@ Controlling whitespace
 &nbsp; = non breaking spaces - adds whitespace
 It's used to when we resize the browser one word don't break
 
+==================
+Displaying images
+==================
+
+Images are conssidered what we call replaced content, when they're encountered, the browser or user agent will use the information within that tag to replace its contents with the resource that you're asked for.
+The attributes becomes important.
+The image tag don't have a closing tag.
+
+<img scr='' alt=''>
+src : source - tells the browser here to go out and find that image
+alt : pass along descreptive text which is representative of the image, very useful for screen reader or other assistive devices
+width and height : are optional but they can be used to pass the dimensions of the image to the browser.
+
 
