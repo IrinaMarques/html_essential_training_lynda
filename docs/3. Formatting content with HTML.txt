@@ -30,3 +30,17 @@ Denotes the level of importance of the content.
 Notes:
 - Limited headings in the page - Use logically
 - Don't skip a series of headings - Use headings in order don't skip
+
+=====================
+Formatting paragraphs
+=====================
+
+We have to be carefull with the paragraphs because it's the default text. 
+
+When we make two paragraphs they get a space between them. This is because all HTML elements have both top and bottom margins.
+
+
+
+
+
+
