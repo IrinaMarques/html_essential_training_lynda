@@ -62,7 +62,33 @@ Inside it can contain:
 <p><b></b></p>
 </body>
 
+=============================
+Understanding content models 
+=============================
 
+Http://www.w3.org/TR/html5/dom.html#kinds-of-content
+
+Almost every element in HTML belong to at least one content model
+
+Content Models: These define the type of content expected inside an element and control syntax rules such as element nesting. 
+
+* Block level: Block level elements take up their own line within the flow of the document.
+
+* Inline: Inline level elements basically appear within the flow of other content.
+
+* Flow: contains the majority of the elements in HTML5 - elements that will be included in the normal flow of the document
+
+* Metadata: base, link, meta, noscript, script, style, title
+
+* Embedded: any content that imports other resources into the document - audio, canvas, embed iframe, img, math, object, svg, video
+
+* Interactive: specifically intended for some type of user interaction - a, audio, button, iframe, img, input, keygen, label, object, select, textarea, video
+
+* Heading: defines the header of a section - h1, h2, h3, h4, h5, h6
+
+* Phrasing: text of a document, as well as any element that are used to - a, abbr, area, audio, b, bdi, br, button, canvas, cite, code, data, date, datalist, del, dfn, em, i, iframe, img, input, ins, kbd, keygen, label, map, mark, math, meter, noscript, object, output, progress, q, ruby, s, samp, script, small, span, strong, sub, sup, svg, textarea, time, u,var, video,wbr, text
+
+* Sectioning: defines the scope of the headings and footers, create a new section within the document - article, aside, nav, section
 
 
 
