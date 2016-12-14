@@ -61,3 +61,20 @@ Emphasizing text
 <dl> : definition list contains two parts
 <dt> : term
 <dd> : definition
+
+=============================
+Displaying special characters
+=============================
+
+Some special characters can't be used to fix that problem we have to use named character entity.
+
+&lang; = <
+&amp; = &
+&amp; = &amp;amp
+&copy; = copyright
+&trade = trademark
+
+To know them all
+
+http://goo.gl/2SrNM2
+
