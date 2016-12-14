@@ -49,3 +49,21 @@ Place information about the document:
 <title></title>
 </head>
 </html>
+
+=================
+The Document body 
+=================
+
+All the visible content.
+Inside it can contain:
+
+<body>
+<h1></h1>
+<p><b></b></p>
+</body>
+
+
+
+
+
+
