@@ -16,3 +16,17 @@ Unformatted text
 <em></em> : emphasis
 <strong></strong> : strongly emphasized
 
+===============
+Using headings
+===============
+
+Adding Headings
+Headings goes from <h1> all way down to <h6>. 
+We have to think in the structure of the document and the importance of the heading himself not the size. 
+
+Heading: <h1> till <h6>
+Denotes the level of importance of the content.
+
+Notes:
+- Limited headings in the page - Use logically
+- Don't skip a series of headings - Use headings in order don't skip
