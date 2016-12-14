@@ -49,7 +49,15 @@ Line break don't need a close tag
 Don't get spaces between the line
 Used when we need to force a hard return without creating a new paragraph.
 
+================
+Emphasizing text
+================
 
+<i></i> : italicizes 
+<b></b> : bold
+<em></em> : emphasis
+<strong></strong> : strongly emphasized
 
-
-
+<dl> : definition list contains two parts
+<dt> : term
+<dd> : definition
