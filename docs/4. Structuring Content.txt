@@ -108,7 +108,30 @@ class is a semantic attribute:
 - allows to stylistically style them
 - very flexible
 
+=======================
+Other semantic element
+=======================
 
+Semantic elements: helps to create sophisticated page structures without affecting the document outline.
+* main
+* header
+* footer
+
+<header></header>
+- representing the introductory content 
+- contain the sections heading
+- the pages are not limited to one header
+
+<footer></footer>
+- typically need information about its section such as who wrote it, links to related documents, copyright data
+- appendices, indexes, long colophon, verbose licensing, agreements, contact information with an address element, bylines
+- it's not necessary to be on the bottom of the page
+
+<main></main>
+- main content of the body of a document application
+- directly related to or expands upon the central topic of a document
+- only can use one in a page
+- it's not a sectioning content
 
 
 
