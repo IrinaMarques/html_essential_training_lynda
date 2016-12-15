@@ -133,6 +133,26 @@ Semantic elements: helps to create sophisticated page structures without affecti
 - only can use one in a page
 - it's not a sectioning content
 
+=====================
+Using WAI-ARIA roles
+=====================
 
+http://www.w3.org/TR/wai-aria
 
+Acessible Rich Internet Applications (WAI-ARIA)
+- accessible sites and applications
 
+- landmark role attribute: allows screen reader, assisted devices, and other user agents to quickly scan that page content and then navigate to those specific sections when required.
+
+Give the elements a role
+Ex. 
+<header role='banner'>
+<nav role='navigation'>
+<main role='main'>
+<article role='article'>
+<aside role='complementary'>
+<footer role='contentinfo'>
+
+http://www.w3.org/TR/2014/WD-aria-in-html-20140626
+
+http://goo.gl/ACVTWJ
