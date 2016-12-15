@@ -42,3 +42,15 @@ Fist we have to figure out each categories will be the heading, and each are h1 
 
 <aside> element: related to the content in the page
 
+================
+The nav element
+================
+
+http://w3.org/TR/html5
+
+<nav></nav>
+
+The nav element represents a section of a page that links to other pages or parts within the page, a section with navigation links.
+- for major navigation inside the site
+- navigate to specific areas
+
