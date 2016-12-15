@@ -87,6 +87,29 @@ The aside element it's used to represent related content
 - pull quotes, sidebars, advertising, groups os nav elements and other content that is considered separete from the main content of the page.
 - Where you place the aside matters.
 
+================
+The div element
+================
+
+<div></div>
+
+The div tag it's used for:
+- structure or group content together without passing along any type of semantic meaning.
+- anonymous grouping tag don't mean anything
+- allows to group up elements into a specific tag
+
+To get more specific we can use:
+* class
+* id 
+
+class is a semantic attribute: 
+- meaning they pass along meaning
+- help us to identify content on the page
+- allows to stylistically style them
+- very flexible
+
+
+
 
 
 
