@@ -54,3 +54,13 @@ The nav element represents a section of a page that links to other pages or part
 - for major navigation inside the site
 - navigate to specific areas
 
+====================
+The article element
+====================
+
+When is appropriate to use the <article> element
+- individual elements that can stand alone
+- when they are removed from other content they still make sense
+- the article let creat a section in the outline
+
+
