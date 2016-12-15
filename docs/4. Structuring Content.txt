@@ -1,0 +1,24 @@
+=======================
+The value of structure
+=======================
+
+HTML allows us to structure documents in a way that illustrates the meaning of the content - semantics.
+* Header: Company information
+* Navigation: Site Navigation
+* Main content
+* Aside bar: Additional Information
+* Footer: Contact Information
+
+HTML Allows to group content together in specific sections that have semantic meaning.
+
+Sectioning Elements:
+* <heading>: <h1> ... <h6>
+* <article>
+* <aside>
+* <nav>
+* <section>
+
+Semantic Elements:
+* <header>
+* <main>
+* <footer>
