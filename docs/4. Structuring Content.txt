@@ -22,3 +22,23 @@ Semantic Elements:
 * <header>
 * <main>
 * <footer>
+
+==============================
+Controlling document outlines
+==============================
+
+To see document outline:
+http://gsnedders.html5.org/outliner
+
+First we have to difine what type of document outline to generate.
+
+Fist we have to figure out each categories will be the heading, and each are h1 till h6.
+
+<nav> element: new section that is specific to the navigation of the site
+
+<article> element: the content of the page
+
+<section> element
+
+<aside> element: related to the content in the page
+
