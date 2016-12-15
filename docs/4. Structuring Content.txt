@@ -76,4 +76,17 @@ When is appropriate to use the <section> element
 - including a heading as a child of the section element
 - it's not a generic container element
 
+==================
+The aside element
+==================
+
+<aside></aside>
+
+The aside element it's used to represent related content
+- section of a page, that consists of content that is tangentially related to the content around the aside element and which could be considered separete from that content
+- pull quotes, sidebars, advertising, groups os nav elements and other content that is considered separete from the main content of the page.
+- Where you place the aside matters.
+
+
+
 
