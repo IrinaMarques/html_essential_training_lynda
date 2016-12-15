@@ -63,4 +63,17 @@ When is appropriate to use the <article> element
 - when they are removed from other content they still make sense
 - the article let creat a section in the outline
 
+<article></article>
+
+====================
+The section element
+====================
+
+<section></section>
+
+When is appropriate to use the <section> element
+- thematic group of content
+- including a heading as a child of the section element
+- it's not a generic container element
+
 
