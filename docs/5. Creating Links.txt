@@ -1,0 +1,37 @@
+============================
+Exploring the anchor element
+============================
+
+<link> element: The link element is used for request external resources for the page.
+
+<a href='seed.html' target='blank' rel='next' title='Planting a Seed'>Planting a Seed</a>
+
+To creat a link on the page we use the anchor element:
+<a></a>
+
+href attribute = hypertext reference - tells the browser here do we go when the link is clicked
+
+target attribute - to open a page in a new window or tab, or to control where a page opens within a frame set
+target=
+_blank
+_parent
+_self
+_top
+framename
+
+rel attribute - describes the relationship of the target object to the link object
+rel=
+alternate
+author
+bookmark
+download
+help
+license
+next
+nofollow
+noreferrer
+prev
+search
+tag
+
+title attribute - helps make links more accessible wich can be read and interpreted by assistive devices search engines or other content readers.
