@@ -156,3 +156,12 @@ Ex.
 http://www.w3.org/TR/2014/WD-aria-in-html-20140626
 
 http://goo.gl/ACVTWJ
+
+==============
+Exercice files
+==============
+
+In the site we have:
+- Structure with semantic meaning
+- Aria rolls that allows assisted devices, screen readers and others to navigate or ignore specific areas of the page
+- Consistent structure
