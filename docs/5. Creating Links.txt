@@ -35,3 +35,14 @@ search
 tag
 
 title attribute - helps make links more accessible wich can be read and interpreted by assistive devices search engines or other content readers.
+
+=================================
+Linking to pages within your site
+=================================
+
+It's pretty commeon fot websites that have multiple directories and subdirectories.
+
+/something.html directory
+../something.html up one directory
+../../something.html up two directories
+
