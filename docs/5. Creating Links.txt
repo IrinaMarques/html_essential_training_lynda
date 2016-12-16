@@ -46,3 +46,13 @@ It's pretty commeon fot websites that have multiple directories and subdirectori
 ../something.html up one directory
 ../../something.html up two directories
 
+==========================
+Linking to external pages
+==========================
+
+Link the site to external links - absolute links
+To link a page we need to know the all url for that site. 
+
+Absolute links have to include the protocol in the beginning of it 
+ex.
+http://www.lynda.com
