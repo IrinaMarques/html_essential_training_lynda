@@ -1,0 +1,18 @@
+=============
+HTML and CSS
+=============
+
+Here HTML capability ends and start CSS.
+When we writte CSS we're actually over writting the default styling with the styles that we want. 
+
+CSS = Cascading style sheets
+
+<style> tag says to HTML I want to writte some styles in CSS.
+
+Css pages are made up of rules. 
+The rules have selectors.
+
+selector + curly braces + properties + curly braces
+body { margin: 0 auto; }
+
+Learning Css is an equally creitical part of learning web design. 
