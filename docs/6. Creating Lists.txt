@@ -4,7 +4,8 @@ Unordered lists
 
 HTML give us thre types of lists to use:
 - Unordered lists <ul></ul> open and closing tags
-- Ordered lists <ol></ol>
+- Ordered lists <ol></ol> open and closing tags
+- Definition lists
 
 Lists are primarily a way of grouping information
 - list <li></li> open and closing tags
@@ -32,4 +33,22 @@ We have a little more control over ordered lists in terms of things that we can 
 
 Choosing between an ordered or unorderer list the primary deciding factor should be the semantics of it - if the sequence of these items matter.
 
+=================
+Definition lists
+=================
 
+Description lists = definition lists consists of two parts for each item:
+- term always come first
+- description
+
+Description list <dl></dl>
+Term <dt></dt> 
+Description <dd></dd>
+
+The browser will render the term as top level items and the description with a little bit of a inset.
+
+Used for:
+- Faq's
+- Glossaries
+- Dictionaries
+- Mark up dialog
