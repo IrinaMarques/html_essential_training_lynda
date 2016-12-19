@@ -51,8 +51,34 @@ Linking to external pages
 ==========================
 
 Link the site to external links - absolute links
-To link a page we need to know the all url for that site. 
+To link a page we need to know the full url for that site. 
 
 Absolute links have to include the protocol in the beginning of it 
 ex.
 http://www.lynda.com
+
+==================================
+Linking to downloadable resources
+==================================
+
+Give users the ability to download a file or some type of resource from you site.
+
+Simple link syntax combined with the new HTML5 download attribute.
+
+1. Ex. Download the zip file to the PC:
+<p>Download our <a href='_assets/syntax.zip' tile='HTML syntax reference'>HTML zip syntax reference!</a></p>
+
+2. Ex. Open the pdf file in the browser
+<p>Download our <a href='_assets/syntax.pdf' tile='HTML syntax reference'>HTML pdf syntax reference!</a></p>
+Use the download attribute 
+
+3. Ex. The pdf it's force to download. download='name_of_the_document' 
+<p>Download our <a href='_assets/syntax.pdf' tile='HTML syntax reference' download='HTML_syntax'>HTML download pdf syntax reference!</a></p>
+
+
+
+
+
+
+
+
