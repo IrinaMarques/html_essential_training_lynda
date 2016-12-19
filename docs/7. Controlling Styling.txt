@@ -16,3 +16,21 @@ selector + curly braces + properties + curly braces
 body { margin: 0 auto; }
 
 Learning Css is an equally creitical part of learning web design. 
+
+=======================
+Creating inline styles
+=======================
+
+How they are written and when they are appropriate to use.
+
+Inline styles are styles that are written directly inline in you HTML. And they're applied usually to a single element.
+
+Ex.
+<h2 style='color:red;'>Style me using the "style" attribute.</h2>
+
+* property on the left hand  side
+* colon to indicate that we're assigning a value
+* the value that we want to pass (in this case red)
+* a semicolon to let it know that this particular line is over
+
+Inline styles are not very effective way of applying a styling.
