@@ -3,7 +3,8 @@ Unordered lists
 ================
 
 HTML give us thre types of lists to use:
-- Unordered list <ul></ul> open and closing tags
+- Unordered lists <ul></ul> open and closing tags
+- Ordered lists <ol></ol>
 
 Lists are primarily a way of grouping information
 - list <li></li> open and closing tags
@@ -13,3 +14,22 @@ Lists are great to organizing:
 - form elements
 - product information
 - any content that needs to be group together in a related manner
+
+==============
+Ordered lists
+==============
+
+Similar to unordered list they share almost exactly the same syntax.
+We can have ordered and unordered lists combined.
+
+Ordered list <ol></ol>
+Most of the browsers default as 1,2,3,4,5...
+
+We have a little more control over ordered lists in terms of things that we can do with it.
+- when a count of a certain list starts
+- reversed
+- type='' can be "i/I/1/A/a"
+
+Choosing between an ordered or unorderer list the primary deciding factor should be the semantics of it - if the sequence of these items matter.
+
+
