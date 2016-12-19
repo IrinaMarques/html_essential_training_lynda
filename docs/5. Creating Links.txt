@@ -75,10 +75,25 @@ Use the download attribute
 3. Ex. The pdf it's force to download. download='name_of_the_document' 
 <p>Download our <a href='_assets/syntax.pdf' tile='HTML syntax reference' download='HTML_syntax'>HTML download pdf syntax reference!</a></p>
 
+========================
+Linking to page regions
+========================
 
+Anchor allows us to jump to specific sections within a document as well - known as fragment identifiers - helpful in enchancing site navigation. 
+Let up to jump to sections in the same page and also jump to specific destinations in other pages.
 
+Fragments: 
+We need to have an ID on the page so they can jump to the ID attribute that is specify in the link. 
 
+Then: 
+<a href='#one' title='section one'>...</a>
 
+To go to another page:
+Then <a href='name.html#one' title='go to name'>...</a>
 
+To go to another site:
+<a href='http://www.w3.org/TR/html5/browsers.html#scroll-to-fragid' title='W3C Fragment identifiers'>...</a>
+We can inspect the element and know the ID.
+The url says all that it's need to know
 
-
+To use fragment identifiers we have to make sure to eliminate any potential confusion that they can cause to the users. 
