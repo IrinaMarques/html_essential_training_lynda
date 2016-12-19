@@ -1,0 +1,15 @@
+================
+Unordered lists
+================
+
+HTML give us thre types of lists to use:
+- Unordered list <ul></ul> open and closing tags
+
+Lists are primarily a way of grouping information
+- list <li></li> open and closing tags
+
+Lists are great to organizing:
+- menus
+- form elements
+- product information
+- any content that needs to be group together in a related manner
