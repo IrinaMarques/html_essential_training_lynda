@@ -95,3 +95,20 @@ Can go from 0 to 255
 RGB value:
 rgb(red,green,blue)
 
+=====================
+Externalizing styles
+=====================
+
+Externalizing styles and aplly to multiple pages.
+Can't put the styles in the head of a document.
+
+We creat a new text file called styles.css
+
+open a link tag
+
+rel='' attribute - what relationship the resource we bring in has to this page
+
+href='' attribute point to the stylesheet
+
+<link rel="stylesheet" href="styles.css">
+
