@@ -1,6 +1,6 @@
 ====================
 HTML and Javascript
-====================´
+====================
 
 Javascript:
 - Validating forms
@@ -9,3 +9,16 @@ Javascript:
 - Improving navigation
 
 Javascript  can access the basic structure and elements of a page and then control them throught scripting.
+
+===================
+The script element
+===================
+
+The way that you structure elements in your HTML matters greatly with the type of scripting that's required to control them. 
+
+<script></script> tag
+
+The script have many attributes.
+type='javascript' --> Type of script is being added.
+
+Javascript comments are // comments in javascript are very important. It's very common to come back six months later or a year and forget why you wrote a function to do a certain thing. 
