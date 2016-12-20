@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>embedded styles</title>
+<!--style using Css-->
+<style>
+	/*element selector - h2 - global selector*/
+	h2 {
+	/*enclose all properties*/
+	color: red;
+	font-weight: normal;
+}
+	/*class selector*/
+	.alert {
+		color: green;
+	}
+	/*more specific - find the h2 that have the alert class in it
+	h2.alert {  }*/
+</style>
+</head>
+<body>
+<h1>Using embedded styles</h1>
+<h2 class='alert'>Style me using the "style" element.</h2>
+<!--Same style
+<h2 style="color:red; font-weight: normal;">Style me using the "style" element.</h2> -->
+<h2> Global styles apply to all instances of the element</h2>
+</body>
+</html>

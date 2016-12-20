@@ -34,3 +34,15 @@ Ex.
 * a semicolon to let it know that this particular line is over
 
 Inline styles are not very effective way of applying a styling.
+
+==================
+The style element
+==================
+
+It's a lot more efficient to have styles that can affect an entire page or an entire site all at once.
+
+Use the style element and move the styles to the head of our document.
+
+To target a element in the page we use the selector
+- global selector
+- class selector
