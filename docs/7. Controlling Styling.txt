@@ -81,3 +81,17 @@ border:
 top - right - bottom - left
 
 When we put  the elements with diferent properties the more specific rule wins.
+
+=============
+Adding color
+=============
+
+html is large parent tag and some browsers recognizes that as having intrinsic properties, so it's better to give things like margin and padding.
+
+Hexadecimal notation:
+RGB - Red+Green+Blue
+Can go from 0 to 255
+
+RGB value:
+rgb(red,green,blue)
+
