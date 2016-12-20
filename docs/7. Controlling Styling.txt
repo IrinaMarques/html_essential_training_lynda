@@ -46,3 +46,38 @@ Use the style element and move the styles to the head of our document.
 To target a element in the page we use the selector
 - global selector
 - class selector
+
+=======================
+Controlling typography
+=======================
+
+font-family:
+font-family: font, fall-back, second fall-back
+In the font family we should put more than one because the user can't have that font in the PC so we add two fall-backs.
+
+In the case of "Times New Roman" the name have to appear in quotation marks because the font have more than one name.
+
+font-size:
+px - we can use pixels - px
+em - we can use a relative unit of measurement they are a little more flexible
+
+font-weight:
+by default it's bold, so it's better to set to normal.
+
+font-style:
+style of the font.
+
+line-height:
+space between the lines.
+
+text-align:
+sets the line of the paragrapah should be align.
+
+- Box-Model Properties -
+Controls space between the elements
+margin:
+padding:
+border:
+top - right - bottom - left
+
+When we put  the elements with diferent properties the more specific rule wins.
