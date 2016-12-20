@@ -1,0 +1,11 @@
+====================
+HTML and Javascript
+====================´
+
+Javascript:
+- Validating forms
+- Remote scripting
+- Special effects
+- Improving navigation
+
+Javascript  can access the basic structure and elements of a page and then control them throught scripting.
