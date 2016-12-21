@@ -62,3 +62,18 @@ Responding to events
 Externalizing JavaScript
 =========================
 
+===========
+Some tools
+===========
+
+CSS tutorial and resources
+HTTP tutorial and resources
+
+https://developer.mozilla.org/en-US
+
+http//www.webplataform.org
+
+http://www.html5rocks.com/en
+
+http://html5doctor.com
+
