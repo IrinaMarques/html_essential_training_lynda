@@ -57,3 +57,8 @@ Responding to events
 =====================
 
 == duble equals checks for quality
+
+=========================
+Externalizing JavaScript
+=========================
+
