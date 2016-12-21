@@ -36,3 +36,14 @@ aplly when document loads
 function displayPanel() { }
 named function - I give the name I want
 aplly when we call it
+
+==============
+Using the DOM
+==============
+
+DOM = Document Object Model
+The DOM is a standardized way of referencing page element in HTML documents. The DOM describes the tree and also gives methods for traversing and accessing these elements programmatically.
+
+Variable is anything I want to be. Store whatever information or objects that I wanted inside of it.
+
+= is a assigning operator - assign a value
