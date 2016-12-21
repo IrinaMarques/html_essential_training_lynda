@@ -47,3 +47,13 @@ The DOM is a standardized way of referencing page element in HTML documents. The
 Variable is anything I want to be. Store whatever information or objects that I wanted inside of it.
 
 = is a assigning operator - assign a value
+
+=======================
+Listening for an event
+=======================
+
+=====================
+Responding to events
+=====================
+
+== duble equals checks for quality
