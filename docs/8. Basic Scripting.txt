@@ -22,3 +22,17 @@ The script have many attributes.
 type='javascript' --> Type of script is being added.
 
 Javascript comments are // comments in javascript are very important. It's very common to come back six months later or a year and forget why you wrote a function to do a certain thing. 
+
+====================
+Writting a function
+====================
+
+Functions help us to write efficient applications by grouping commonly performed tasks into a single block of code which can then be executed if it's needed. 
+
+window.onload = function() { }
+same as: when windows stop load execute this function
+aplly when document loads
+
+function displayPanel() { }
+named function - I give the name I want
+aplly when we call it
